@@ -7,5 +7,5 @@ https://github.com/YukihideMatsuyama/Sample.git
 	[okonomiyaki.txt](okonomiyaki.txt)  
   
 ### リモートリポジトリ  
-* README.mdを作ってみる  
+* [README.md](README.md)を作ってみる  
 * マークダウンを覚える  
